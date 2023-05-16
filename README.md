@@ -4,6 +4,8 @@
 
 ![Test](./images/test.png)
 
+📝 Read the blog post [Test With A Different Item Every Day](https://glebbahmutov.com/blog/test-a-different-item-every-day/)
+
 ## Small print
 
 Author: Gleb Bahmutov &lt;gleb.bahmutov@gmail.com&gt; &copy; 2023
